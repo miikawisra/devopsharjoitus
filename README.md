@@ -1,3 +1,18 @@
+# Angular Example
+
+Tämä projekti on Angular-harjoitusprojekti.
+
+## Projektin käynnistäminen
+
+Asenna riippuvuudet:
+
+npm install
+
+Käynnistä kehityspalvelin:
+
+ng serve
+
+
 # AngularExample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
